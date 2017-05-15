@@ -613,12 +613,11 @@ main > div {
 }
 .highlight pre {
   padding-left: 1em;
+  color: #333;
 }
 
 .highlight a {
-  color: inherit;
-  border-bottom: 1px dotted;
-  padding: 2px 0;
+  color: #000;
   font-weight: 700;
 }
 .highlight a:hover {
@@ -702,7 +701,6 @@ main > div {
 /* highlight */
 
 .highlight pre {
-  color: #000;
   -moz-tab-size: 4;
   -o-tab-size: 4;
   tab-size: 4;
